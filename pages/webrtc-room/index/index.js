@@ -7,7 +7,7 @@ Page({
 	 * 页面的初始数据
 	 */
 	data: {
-		roomNo: '',
+		roomNo: '12',
 		userName: '',
 		tapTime: '',
 		template: 'bigsmall',

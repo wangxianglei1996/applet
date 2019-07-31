@@ -4,16 +4,26 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": false,
+		"urlCheck": true,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"coverView": true,
+		"autoAudits": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		}
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.0",
 	"appid": "wxadbf7a80f60b0ebe",
-	"projectname": "MiniProgram-TRTC",
+	"projectname": "%E5%8C%BB%E7%9B%9F%E4%BA%91%E5%8C%BB",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
