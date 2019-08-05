@@ -82,7 +82,19 @@ Page({
 			'tapTime': nowTime
 		});
 	},
+  out: function () {
 
+    
+
+    var url = `../../index/index`;
+
+    wx.navigateTo({
+      url: url
+    });
+
+    
+  },
+ 
 	/**
 	 * 生命周期函数--监听页面加载
 	 */

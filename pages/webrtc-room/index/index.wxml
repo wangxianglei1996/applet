@@ -39,6 +39,7 @@
     </view> -->
   </view>
 </view>
+
 <view class='bottom-btn'>
-  <button type="primary" bindtap="joinRoom" hover-class="none">创建/进入房间</button>
+  <navigator url="/pages/index/index" >返回首页</navigator>
 </view>
