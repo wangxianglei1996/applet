@@ -83,11 +83,7 @@ Page({
 		});
 	},
   out: function () {
-
-    
-
     var url = `../../index/index`;
-
     wx.navigateTo({
       url: url
     });

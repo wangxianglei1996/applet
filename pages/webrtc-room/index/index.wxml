@@ -41,5 +41,5 @@
 </view>
 
 <view class='bottom-btn'>
-  <navigator url="/pages/index/index" >返回首页</navigator>
+  <button type="primary" open-type="getUserInfo" bindgetuserinfo="joinRoom" hover-class="none">创建/进入房间</button>
 </view>
